@@ -26,7 +26,7 @@ import com.ziroom.creation.permission.PermissionsChecker;
 
 public class DeviceUtils {
 
-    /*
+    /* 获取App版本
      * 获取App版本
      * @param mContext
      * @return
