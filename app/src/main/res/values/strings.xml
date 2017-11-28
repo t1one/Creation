@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Creation</string>
+    <string name="wx_data_error">数据加载失败</string>
+    <string name="wx_check_net">请检测你的手机是否联网</string>
+    <string name="wx_reload">重新加载</string>
+    <string name="wx_cancel">取消</string>
+    <string name="wx_sure">确定</string>
+    <string name="wx_close">关闭</string>
+    <string name="wx_setting">设置</string>
+    <string name="wx_reminder">提示</string>
+    <string name="wx_view_knowledge">查看提纲知识点</string>
+    <string name="wx_evaluate_course">评价课程</string>
+
+    <!--权限 -->
+    <string name="wx_permission_help">权限说明</string>
+    <string name="wx_permission_declare">当前应用缺少必要权限。\n\n请点击\"设置\"-\"权限\"-打开所需权限。\n\n若有第三方安全软件，请打开软件，在权限管理中打开所有的权限。</string>
+
+</resources>

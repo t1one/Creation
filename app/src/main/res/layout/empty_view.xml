@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ll_empty"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/wx_gray_dddddd"
+    android:gravity="center_horizontal"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/iv_empty"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="80dp"
+        android:background="@mipmap/error_pic" />
+
+    <TextView
+        android:id="@+id/tv_cause"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="28dp"
+        android:text="@string/wx_data_error"
+        android:textColor="@color/wx_black_111111"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/tv_hint"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="13dp"
+        android:text="@string/wx_check_net"
+        android:textColor="@color/wx_gray_999999"
+        android:textSize="13sp" />
+
+    <LinearLayout
+        android:id="@+id/ll_reload"
+        android:layout_width="110dp"
+        android:layout_height="35dp"
+        android:layout_marginTop="70dp">
+
+        <TextView
+            android:layout_width="110dp"
+            android:layout_height="35dp"
+            android:background="@drawable/btn_reload"
+            android:gravity="center"
+            android:text="@string/wx_reload"
+            android:textColor="@color/wx_gray_999999"
+            android:textSize="13sp" />
+    </LinearLayout>
+</LinearLayout>

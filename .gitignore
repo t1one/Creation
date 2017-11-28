@@ -1,0 +1,14 @@
+#用于在git里屏蔽如下类型的文件
+.gradle
+.idea
+build
+gradle/
+/ziroomer_HouseConfigbase30/lint.xml
+gradlew
+gradlew.bat
+*.txt
+local.properties
+*.iml
+ziruke.keystore
+settings.gradle
+*.apk

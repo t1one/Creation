@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="wx_actionbar_title_text_size">18sp</dimen>
+    <dimen name="wx_actionbar_setting_padding">8dp</dimen>
+    <dimen name="wx_actionbar_height">44dp</dimen>
+
+    <dimen name="wx_text_size_s">12sp</dimen>
+    <dimen name="wx_text_size_m">14sp</dimen>
+    <dimen name="wx_text_size_x">16sp</dimen>
+    <dimen name="wx_text_size_xl">18sp</dimen>
+    <dimen name="wx_text_size_xll">20sp</dimen>
+
+    <dimen name="wx_line">0.5dp</dimen>
+
+
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="wx_action_bar_tittle_color">#71B2FF</color>
+    <color name="wx_action_setting_item_click_color">#30999999</color>
+
+    <color name="wx_transparent">#00000000</color>
+    <color name="wx_white">#ffffff</color>
+    <color name="wx_black">#000000</color>
+    <color name="wx_divide">#F5F5F5</color>
+
+    <color name="wx_black_111111">#111111</color>
+    <color name="wx_black_333333">#333333</color>
+    <color name="wx_gray_666666">#666666</color>
+    <color name="wx_gray_999999">#999999</color>
+    <color name="wx_gray_cccccc">#CCCCCC</color>
+    <color name="wx_gray_d1d1d1">#D1D1D1</color>
+    <color name="wx_gray_dddddd">#DDDDDD</color>
+    <color name="wx_gray_f8f8f8">#F8F8F8</color>
+    <color name="wx_gray_f9f9f9">#F9F9F9</color>
+    <color name="wx_yellow_ffae00">#FFAE00</color>
+    <color name="wx_red_ff3366">#FF3366</color>
+    <color name="wx_red_ff0000">#FF0000</color>
+    <color name="wx_gray_f6f6f6">#F6F6F6</color>
+
+    <color name="wx_green_26B683">#26B683</color>
+    <color name="wx_green_24B781">#24B781</color>
+
+
+</resources>
